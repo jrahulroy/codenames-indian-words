@@ -1,0 +1,35 @@
+// Culture
+baigan
+metro
+mmts
+ghmc
+hindi
+urdu
+telugu
+
+// Food
+haleem
+biryani
+falooda
+falsa
+
+// Geography
+lakdi ka pool
+orr
+necklace road
+rgia
+rtc x road
+charminar
+begum bazaar
+old city
+
+// Politics
+kcr
+ktr
+
+// Cinema
+raja mouli
+chiranjeevi
+nagarjuna
+venkatesh
+

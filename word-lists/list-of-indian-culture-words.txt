@@ -1,0 +1,78 @@
+// Culture
+lassi
+pani puri
+chai
+masala
+ginger
+garlic
+thumps up
+maggi
+upma
+saree
+amma
+
+
+// National
+tiger
+peacock
+
+// Geography
+
+// Geography: Cities
+delhi
+hyderbad
+mumbai
+chennai
+bangalore
+kanyakumari
+
+// Geography: States
+andhra
+telangana
+karnataka
+
+// Geography: Landmarks
+taj mahal
+
+// Geography: Rivers
+godavari
+narmada
+
+// Textiles
+silk
+paithani
+
+// Horror
+pisachi
+atma
+
+// Movies
+RRR
+Bahubali
+Sarkar
+Sholay
+
+// Movies: Actores
+Rajini Kanth
+Shahrukh Khan
+Jaya Prada
+Amitabh Bachan
+
+// Sports
+bat
+ball
+galli
+hockey
+cricket
+
+// Sports: Personalities
+PT Usha
+Sania Mirza
+PV Sindhu
+Mary Kom
+Sachin Tendulkar
+Mahedar Singh Dhoni
+
+// Famous Personalities
+arya bhatta
+ramanujan
